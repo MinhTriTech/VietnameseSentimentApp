@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+
+# Database file
+history.db
+
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
