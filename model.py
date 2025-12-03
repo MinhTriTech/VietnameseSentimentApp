@@ -4,8 +4,10 @@ from underthesea import word_tokenize
 
 # Cấu hình từ điển 
 TEENCODE_DICT = {
-    "rat": "rất", "hom": "hôm", "nay": "nay", "dc": "được", 
-    "ko": "không", "dở": "tệ", "ok": "tốt", "bt": "bình thường"
+    "hom": "hôm", "nay": "nay", "hnay": "hôm nay", 
+    "dc": "được", "ko": "không", "k": "không", 
+    "dở": "tệ", "ok": "tốt", "tot": "tốt", "bt": "bình thường", "dep": "đẹp", "bun": "buồn", 
+    "wa": "quá", "ng": "người", "rat": "rất",  
 }
 
 # Load model 
