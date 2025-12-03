@@ -79,7 +79,7 @@ project/
 
 ### Dependencies chính
 
--   Python 3.8 +
+-   Python 3.8+
 -   streamlit
 -   transformers
 -   pandas
