@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Model](https://img.shields.io/badge/Model-PhoBERT-orange)](https://huggingface.co/vinai/phobert-base)
+[![Model](https://img.shields.io/badge/Model-PhoBERT_Sentiment-orange)](https://huggingface.co/wonrax/phobert-base-vietnamese-sentiment)
 
 Ứng dụng web được xây dựng bằng **Streamlit**, sử dụng mô hình **PhoBERT** để phân tích và phân loại cảm xúc của các câu văn Tiếng Việt thành 3 nhãn: **Tích cực (Positive)**, **Tiêu cực (Negative)**, hoặc **Trung tính (Neutral)**.
 
@@ -79,7 +79,7 @@ project/
 
 ### Dependencies chính
 
--   Python 3. +
+-   Python 3.8 +
 -   streamlit
 -   transformers
 -   pandas
