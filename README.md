@@ -6,7 +6,7 @@
 
 Ứng dụng web được xây dựng bằng **Streamlit**, sử dụng mô hình **PhoBERT** để phân tích và phân loại cảm xúc của các câu văn Tiếng Việt thành 3 nhãn: **Tích cực (Positive)**, **Tiêu cực (Negative)**, hoặc **Trung tính (Neutral)**.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Place+Your+Screenshot+Here)
+![Demo](images/HomePage.png)
 
 
 ---
